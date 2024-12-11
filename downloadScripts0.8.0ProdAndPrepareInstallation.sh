@@ -10,7 +10,7 @@ echo "list branches"
 git branch -a
 
 echo "checkout"
-git checkout -b 0.8.0 origin/0.8.0
+git checkout -b 0.8.0prod origin/0.8.0prod
 
 echo "pull"
 git pull
