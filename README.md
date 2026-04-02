@@ -1,3 +1,3 @@
 # Installation
 
-It contains scripts for installing the Language Data Space Connector
+It contains scripts and information for installing the Language Data Space Connector
