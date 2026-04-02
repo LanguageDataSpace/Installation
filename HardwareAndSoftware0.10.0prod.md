@@ -1,3 +1,5 @@
+### Step - Hardware and software prerequisites
+
 - The VM must have access to internet and a public IP. Also a public DNS name for that IP is required.
 - This installation has been tested *only* with Ubuntu 22.04.4 LTS. It requires at least 16GB RAM,  8CPUs and 150GB disk. The disk size depends on your needs. If you have many and/or large files you might need more space.
 - The following ports should be open (accessible): 80 (http), 443(https)
