@@ -10,6 +10,7 @@ FILES=(
     proxyedc1.properties
     nginxssl.conf
     manager.sh
+    PATCH
 )
 # -----------------------------------------------------------------------------
 
