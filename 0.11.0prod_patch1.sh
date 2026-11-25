@@ -39,5 +39,10 @@ log "Applying configuration"
 log "Starting containers"
 ./startEDC1.sh
 
+sleep 20
+
+./startEDC1.sh
+
+
 trap - ERR
 log "Update to '$TARGET' completed."
